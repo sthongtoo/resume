@@ -29,7 +29,7 @@ body{
         position: absolute;
         display: block;
         height: 0.4em;
-        width: 100%;
+        width: 0%;
         background-color:var(--pink);
         bottom: -1em;
         transition: all ease-in-out 250ms;
