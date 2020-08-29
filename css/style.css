@@ -5,7 +5,7 @@ body{
     margin:0px;
     background-color: #232e33;
 }
-#navbar{
+.navbar{
     width: 100vw;
     background-color: #192024;
     font-weight: bold;
@@ -45,4 +45,6 @@ li:first-child{
     margin-right:auto;
     margin-left:3em;
 }
+
+
 
