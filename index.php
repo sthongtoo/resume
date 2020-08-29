@@ -7,7 +7,7 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-        <div id="nevbar">
+        <div class="navbar">
             <ul>
                 <li><a href="#">Logo</a></li>
                 <li><a href="#">About</a></li>
