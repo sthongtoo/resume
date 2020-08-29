@@ -5,8 +5,8 @@ body{
     margin:0px;
     background-color: #232e33;
 }
-#navbar{
-    width: 100%;
+navbar{
+    width: 100vw;
     background-color: #192024;
     font-weight: bold;
 }
